@@ -1,0 +1,9 @@
+# Ignore CMake build artifacts and dependencies
+cmake-build-debug/
+
+# Ignore CLion settings (optional, but recommended)
+.idea/
+
+# Ignore executable files
+*.exe
+*.dll
